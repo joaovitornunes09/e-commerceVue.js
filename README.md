@@ -1,4 +1,4 @@
-# project5-shopping-bag-finished
+# E-commerce - VueJS
 
 ## Project setup
 ```
